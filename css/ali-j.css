@@ -141,7 +141,11 @@ section#Message {
   background-color: #222222;
   background-image: url("../img/map-image.png");
   background-repeat: no-repeat;
-  background-position: center; }
+  background-position: center; 
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;}
   section#Message .section-heading {
     color: white; }
   section#Message .form-group {

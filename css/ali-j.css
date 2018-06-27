@@ -137,48 +137,48 @@ margin-left: 333px;
 
 }
 
-section#contact-form {
+section#Message {
   background-color: #222222;
   background-image: url("../img/map-image.png");
   background-repeat: no-repeat;
   background-position: center; }
-  section#contact-form .section-heading {
+  section#Message .section-heading {
     color: white; }
-  section#contact-form .form-group {
+  section#Message .form-group {
     margin-bottom: 25px; }
-    section#contact-form .form-group input,
-    section#contact-form .form-group textarea {
+    section#Message .form-group input,
+    section#Message .form-group textarea {
       padding: 20px; }
-    section#contact-form .form-group input.form-control {
+    section#Message .form-group input.form-control {
       height: auto; }
-    section#contact-form .form-group textarea.form-control {
+    section#Message .form-group textarea.form-control {
       height: 236px; }
-  section#contact-form .form-control:focus {
+  section#Message .form-control:focus {
     border-color: #fed136;
     box-shadow: none; }
-  section#contact-form ::-webkit-input-placeholder {
+  section#Message ::-webkit-input-placeholder {
     font-weight: 700;
     color: #eeeeee;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
-  section#contact-form :-moz-placeholder {
+  section#Message :-moz-placeholder {
     font-weight: 700;
     color: #eeeeee;
     /* Firefox 18- */
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
-  section#contact-form ::-moz-placeholder {
+  section#Message ::-moz-placeholder {
     font-weight: 700;
     color: #eeeeee;
     /* Firefox 19+ */
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
-  section#contact-form :-ms-input-placeholder {
+  section#Message :-ms-input-placeholder {
     font-weight: 700;
     color: #eeeeee;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
-  section#contact .text-danger {
+  section#Message .text-danger {
     color: #e74c3c; }
 
   @media (min-width: 992px) {
